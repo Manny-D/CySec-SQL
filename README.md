@@ -2,9 +2,8 @@
 
 <h2>Description</h2>
 Project scenario: </br>
-As a security professional, I typically investigate security issues to help keep the system secure. I recently discovered some potential security issues that involve login attempts and employee machines.
+I recently discovered some potential security issues that involve login attempts and employee machines.
 </br></br>
-
 I will examine the organization’s data in our  DB (employees  and log_in_attempts tables) and will be using SQL filters to retrieve records from different datasets and investigate the potential security issues.
 </br>
 </br>
