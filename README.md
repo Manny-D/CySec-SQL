@@ -53,9 +53,8 @@ Security updates need to be performed on employee machines in the Marketing depa
 FROM employees </br>
 WHERE department = ‘Marketing’ AND office LIKE ‘East%’; </i></b></br>
 </br>
-
-
-
+<img src="image1.png"> 
+</br>
 
 Note: <b><i>LIKE</i></b> was used for the contains <b><i>%</i></b> wildcard, as there were various East building numbers.
 </br></br>
